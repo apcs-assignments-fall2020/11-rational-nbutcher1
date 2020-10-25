@@ -2,6 +2,7 @@ public class RationalClient {
     
     public static void main(String[] args) {
         Rational r = new Rational(1, 2);
+        Rational x = new Rational(1,2);
         System.out.println(r);
 
         // We can use dot notation to access the integer values
